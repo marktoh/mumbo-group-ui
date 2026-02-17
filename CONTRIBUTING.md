@@ -5,8 +5,6 @@ We welcome bug fixes, new components, improvements, and documentation contributi
 
 This guide ensures contributions are **consistent, high-quality, and easy to review**.
 
----
-
 ## Getting Started
 
 ### 1. Fork & Clone
@@ -29,8 +27,6 @@ Use a descriptive branch name:
 ```bash
 git checkout -b feat/button-variant
 ```
-
----
 
 ## Commit Guidelines
 
@@ -58,8 +54,6 @@ We follow **Conventional Commits**:
 git commit -m "feat(Button): add new variant with secondary style"
 ```
 
----
-
 ## Testing
 
 Before submitting a PR, make sure your changes pass all tests:
@@ -79,8 +73,6 @@ Run development server (optional):
 ```bash
 npm run dev
 ```
-
----
 
 ## Publishing / Release Workflow
 
@@ -118,8 +110,6 @@ npx standard-version
 
 This will create a new changelog entry based on conventional commits.
 
----
-
 ## Documentation
 
 If your change affects usage:
@@ -127,8 +117,6 @@ If your change affects usage:
 - Update the relevant `docs/` file
 - Ensure examples are clear and accurate
 - Keep documentation in sync with component API
-
----
 
 ## Submitting a Pull Request
 
@@ -142,8 +130,6 @@ git push origin feat/button-variant
 3. Include a description, motivation, and any screenshots if relevant
 4. Reference related issues, if any
 
----
-
 ## Best Practices
 
 - Keep PRs focused and small
@@ -151,15 +137,11 @@ git push origin feat/button-variant
 - Add tests for new functionality
 - Write descriptive commit messages following conventional commits
 
----
-
 ## Reporting Issues
 
 - Provide clear reproduction steps
 - Include screenshots when relevant
 - Mention your environment (Node version, browser, OS)
-
----
 
 ## Thank You
 

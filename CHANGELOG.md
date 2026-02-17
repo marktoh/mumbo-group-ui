@@ -1,4 +1,4 @@
-# 📦 Changelog
+# Changelog
 
 All notable changes to **@mumbo-group/ui** will be documented in this file.
 
@@ -8,7 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/) and [Sema
 
 ## [1.0.0] - 2026-02-17
 
-### 🚀 Added
+### Added
 
 - Initial release of the UI library
 - `Button` component with `primary`, `secondary`, and `ghost` variants
@@ -16,17 +16,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/) and [Sema
 - ESM and CJS builds for maximum compatibility
 - `docs/` folder with usage examples
 
-### 🛠 Fixed
+### Fixed
 
 - N/A
 
-### ⚡ Changed
+### Changed
 
 - N/A
 
----
-
-### 🔧 Notes
+## Notes
 
 - **Patch releases**: Bug fixes
 - **Minor releases**: New features, backward-compatible

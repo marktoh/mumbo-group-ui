@@ -4,8 +4,6 @@
 
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers of **@mumbo-group/ui** pledge to make participation in our project **a harassment-free experience** for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
----
-
 ## Our Standards
 
 Examples of behavior that contributes to a positive environment:
@@ -24,13 +22,9 @@ Examples of unacceptable behavior by participants:
 - Public or private harassment
 - Other conduct which could reasonably be considered inappropriate in a professional setting
 
----
-
 ## Enforcement Responsibilities
 
 Project maintainers are responsible for clarifying standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
-
----
 
 ## Reporting Guidelines
 
@@ -40,8 +34,6 @@ If you experience or witness unacceptable behavior, please report it by contacti
 
 All reports will be reviewed and investigated and will remain **completely confidential**.
 
----
-
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at the above email.  
@@ -50,8 +42,6 @@ The maintainers will respond promptly and may take any action they deem appropri
 - Warning the offender
 - Temporary or permanent bans from project spaces
 - Reporting to relevant authorities if required
-
----
 
 ## Attribution
 
