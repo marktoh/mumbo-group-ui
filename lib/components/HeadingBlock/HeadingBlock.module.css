@@ -1,0 +1,4 @@
+.headingBlock {
+  display: flex;
+  flex-direction: column;
+}
