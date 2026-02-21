@@ -28,7 +28,7 @@ const Table = ({ title, description, columns, data }: TableProps) => {
   return (
     <div>
       <HeadingBlock>
-        <Heading>{title}</Heading>
+        <Heading as="h2">{title}</Heading>
         <Paragraph>{description}</Paragraph>
       </HeadingBlock>
       <table className={styles.table}>
