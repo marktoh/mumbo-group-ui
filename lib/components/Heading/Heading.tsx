@@ -1,11 +1,12 @@
 import styles from "./Heading.module.css";
 interface HeadingProps {
-  as?: React.ElementType;
+  as?: "h1" | "h2" | "h3" | "h4" | "h5" | "h6";
   children: React.ReactNode;
 }
 
 const Heading = ({ as: As = "h1", children }: HeadingProps) => {
-  return <As className={styles[As]}>{children}</As>;
+  const className = styles[As as keyof typeof styles];
+  return <As className={className}>{children}</As>;
 };
 
 export { Heading };
