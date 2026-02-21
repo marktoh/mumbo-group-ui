@@ -1,7 +1,7 @@
 {
   "name": "@mumbo-group/ui",
   "description": "@mumbo-group/ui - Preset styled React components",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "type": "module",
   "main": "dist/mumbo-group-ui.cjs.js",
   "module": "dist/mumbo-group-ui.es.js",
